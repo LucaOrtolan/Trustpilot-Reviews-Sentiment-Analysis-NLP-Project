@@ -4,4 +4,4 @@ This NLP project uses reviews of the internet company HughesNet scraped from Tru
 The repository has two notebooks: one with the webscraping code and the other with the machine learning part. The neural network's architecture has been made by Shency Jose in this Kaggle project https://www.kaggle.com/code/shencyjose/lstm-sentiment-analysis. <br>
 The webscraped data can can be found at this link: https://www.kaggle.com/datasets/lucaortolan/trustpilot-reviews-for-sentiment-analysis.
 
-Libraries used: tensorflow, keras, BeautifulSoup, pandas, numpy, matplotlib, seaborn, 
+Libraries used: tensorflow, keras, BeautifulSoup, pandas, numpy, matplotlib, seaborn
